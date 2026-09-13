@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angeetha</h1>
 
-<h3 align="center">
-B.Tech AI & Data Science Student | Aspiring Data Analyst
-</h3>
+<h3 align="center">B.Tech AI & Data Science Student | Aspiring Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angeetha06-art&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -17,9 +15,8 @@ B.Tech AI & Data Science Student | Aspiring Data Analyst
 - 🐍 Currently improving my skills in **Python, SQL and Data Analytics**
 - 🧹 Interested in **Data Cleaning, EDA, KPI Analysis and Data Visualization**
 - 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- 🚀 Building projects to develop practical, real-world skills
-- 💡 I enjoy turning data into meaningful insights
-- 🌱 Always learning something new
+- 🚀 Building practical projects to strengthen my real-world skills
+- 💡 I enjoy finding meaningful insights hidden inside data
 
 ---
 
@@ -33,16 +30,26 @@ A data analytics project focused on understanding spending behaviour through:
 - Category-wise spending
 - KPI tracking
 - Spending patterns
-- Interactive dashboards
 - Data-driven insights
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning
 
-### Programming & Data
+**Python • SQL • Pandas • NumPy • Data Analytics • Machine Learning**
+
+---
+
+## 💬 Ask Me About
+
+**Python • SQL • Excel • Data Analytics • AI**
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="left">
+
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
@@ -58,11 +65,7 @@ A data analytics project focused on understanding spending behaviour through:
 <a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
 </a>
-</p>
 
-### Tools
-
-<p align="left">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
@@ -70,21 +73,26 @@ A data analytics project focused on understanding spending behaviour through:
 <a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </a>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Personal Finance & Spending Analytics Dashboard
-> Data Analytics | Python | Pandas | Excel
+
+**Python • Pandas • Excel • Data Analytics**
+
+A data analytics project focused on understanding spending behaviour, identifying patterns and generating meaningful financial insights.
 
 🔗 **Coming Soon**
 
 ---
 
 ### 📈 Sales Analytics & Manager Dashboard
-> Excel | Data Analytics | Business Intelligence
+
+**Excel • Data Analytics**
 
 - Data cleaning
 - KPI analysis
@@ -98,7 +106,8 @@ A data analytics project focused on understanding spending behaviour through:
 ---
 
 ### 🐘 Intelligent Surveillance System for Wildlife Protection
-> AI | Data Science
+
+**AI • Data Science**
 
 An AI-based system focused on real-time wildlife monitoring and suspicious activity detection.
 
@@ -107,7 +116,8 @@ An AI-based system focused on real-time wildlife monitoring and suspicious activ
 ---
 
 ### 🌱 Intelligent Pesticide Sprinkling System
-> AI | Smart Agriculture
+
+**AI • Smart Agriculture**
 
 A system designed to detect plant infection levels and support targeted pesticide spraying.
 
@@ -118,11 +128,11 @@ A system designed to detect plant infection levels and support targeted pesticid
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=angeetha06-art&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=angeetha06-art&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeetha06-art&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeetha06-art&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -130,31 +140,19 @@ A system designed to detect plant infection levels and support targeted pesticid
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=angeetha06-art&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=angeetha06-art&theme=transparent&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <b>Building consistency, one contribution at a time 🚀</b>
 </p>
 
 ---
 
-## 📅 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angeetha06-art&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=angeetha06-art&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeetha06-art&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Overview"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angeetha06-art&hide_border=true&radius=10" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -185,17 +183,17 @@ A system designed to detect plant infection levels and support targeted pesticid
 
 ## 📄 Resume
 
-📌 **[View My Resume](https://github.com/angeetha06-art/Resume/blob/main/Angeetha_Resume.pdf)**
+📌 [View My Resume](https://github.com/angeetha06-art/Resume/blob/main/Angeetha_Resume.pdf)
 
 ---
 
 ## 💡 Fun Fact
 
-> I can spend hours learning something new, but still ask:  
+> I can spend hours learning something new, but still ask:
 > **"Bro, is there an easier way?" 😂**
 
 ---
 
 <p align="center">
-✨ <b>Learning • Building • Improving</b> ✨
+  <b>✨ Learning • Building • Improving ✨</b>
 </p>
