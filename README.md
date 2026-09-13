@@ -1,21 +1,25 @@
+<!-- =========================================================
+     MIDNIGHT DATA INTELLIGENCE
+     GitHub Profile README
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ANGEETHA&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=gradient&customColorList=0,1,2,3,4,5,6"/>
-
-<h1>Hi 👋, I'm Angeetha</h1>
-
-<h3>B.Tech AI & Data Science Student | Aspiring Data Analyst</h3>
-
-<p>
-  <b>DATA</b> &nbsp;•&nbsp;
-  <b>AI</b> &nbsp;•&nbsp;
-  <b>ANALYTICS</b> &nbsp;•&nbsp;
-  <b>BUILDING</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ANGEETHA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:03213D,50:062A48,100:0E7490" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=angeetha06-art&label=PROFILE%20VIEWS&color=E6223A&style=for-the-badge" alt="Profile Views"/>
+# Hi 👋, I'm Angeetha
+
+### B.Tech AI & Data Science Student | Aspiring Data Analyst
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=angeetha06-art&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+`DATA ANALYTICS` &nbsp; `AI` &nbsp; `SQL` &nbsp; `PYTHON`
 
 </div>
 
@@ -23,49 +27,55 @@
 
 <div align="center">
 
-## 🧬 ABOUT ME
+### ──────────────────  DATA INTELLIGENCE  ──────────────────
 
 </div>
 
+## 01 / PROFILE
+
+> **Turning data into insights while building practical skills in AI & Data Science.**
+
 <table>
 <tr>
-<td width="65%">
+<td width="70%">
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student**
-
-📊 **Aspiring Data Analyst**
-
-🐍 Currently improving my skills in **Python, SQL, Excel & Data Analytics**
-
-🤖 Exploring **Artificial Intelligence, Machine Learning & GenAI**
-
-🧹 Interested in **Data Cleaning, EDA, KPI Analysis & Data Visualization**
-
-🚀 Building practical projects to strengthen my real-world skills
-
-💡 I enjoy finding meaningful insights hidden inside data
+- 🔭 I’m currently working on **Personal Finance & Spending Analytics Dashboard**
+- 🌱 I’m currently learning **Python, SQL, Excel, Power BI, Tableau & Data Analytics**
+- 👯 I’m looking to collaborate on **AI & Data Analytics Projects**
+- 🤝 I’m looking for help with **Data Analytics & Real-World Projects**
+- 👨‍💻 All of my projects are available at **GitHub**
+- 📝 I regularly write articles on **Data Analytics, AI, SQL, Python & Technology**
+- 💬 Ask me about **Python, SQL, Excel, Data Analytics & AI**
+- 📫 How to reach me **angeetha06@gmail.com**
+- 📄 Know about my experiences through my **Resume**
 
 </td>
 
-<td width="35%">
+<td width="30%">
 
 <div align="center">
 
-### MY FOCUS
+### CURRENT FOCUS
 
 <br>
 
-📊 **DATA ANALYTICS**
+**01**  
+DATA ANALYTICS
 
-🐍 **PYTHON**
+<br>
 
-🗄️ **SQL**
+**02**  
+PYTHON + SQL
 
-🤖 **AI / ML**
+<br>
 
-📈 **VISUALIZATION**
+**03**  
+REAL-WORLD PROJECTS
 
-🚀 **REAL PROJECTS**
+<br>
+
+**04**  
+AI / DATA SCIENCE
 
 </div>
 
@@ -77,64 +87,64 @@
 
 <div align="center">
 
-## 🔭 CURRENTLY WORKING ON
-
-### 💰 Personal Finance & Spending Analytics Dashboard
-
-**Understanding spending behaviour through data**
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-03213D?style=for-the-badge&logo=python&logoColor=E6223A"/>
-<img src="https://img.shields.io/badge/Pandas-062A48?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Excel-374365?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-621D43?style=for-the-badge&logo=googleanalytics&logoColor=ffffff"/>
+### ──────────────────  CURRENTLY BUILDING  ──────────────────
 
 </div>
 
-> 📌 A data analytics project focused on understanding spending behaviour through data cleaning, analysis, KPIs and visual insights.
+## 02 / ACTIVE PROJECT
+
+### Personal Finance & Spending Analytics Dashboard
+
+A data analytics project focused on understanding spending behaviour through data cleaning, analysis, KPIs and visual insights.
+
+**Focus**
+
+`SPENDING BEHAVIOUR` · `KPI ANALYSIS` · `DATA CLEANING` · `VISUAL INSIGHTS`
+
+**Status:** `IN PROGRESS`
 
 ---
 
 <div align="center">
 
-## 🌱 CURRENTLY LEARNING
+### ──────────────────  LEARNING PIPELINE  ──────────────────
 
-<img src="https://img.shields.io/badge/Python-E6223A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-690722?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-621D43?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-644765?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-374365?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</div>
+
+## 03 / CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-03213D?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/SQL-062A48?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/EXCEL-164E63?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/POWER%20BI-155E75?style=for-the-badge&logo=powerbi&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TABLEAU-0E7490?style=for-the-badge&logo=tableau&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0369A1?style=for-the-badge&logo=googleanalytics&logoColor=ffffff"/>
 
 </div>
 
 ---
+
+## 04 / COLLABORATION
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<div align="center">
-
-## 👯 LOOKING TO COLLABORATE ON
+### LOOKING TO COLLABORATE ON
 
 **AI & Data Analytics Projects**
 
-</div>
-
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<div align="center">
-
-## 🤝 LOOKING FOR HELP WITH
+### LOOKING FOR HELP WITH
 
 **Data Analytics & Real-World Projects**
 
-</div>
-
 </td>
 
 </tr>
@@ -144,13 +154,9 @@
 
 <div align="center">
 
-## 💬 ASK ME ABOUT
+## ASK ME ABOUT
 
-<img src="https://img.shields.io/badge/Python-E6223A?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-690722?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel-621D43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-374365?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-062A48?style=flat-square"/>
+`Python` &nbsp; `SQL` &nbsp; `Excel` &nbsp; `Data Analytics` &nbsp; `AI`
 
 </div>
 
@@ -158,225 +164,150 @@
 
 <div align="center">
 
-# 🛠️ LANGUAGES & TOOLS
+### ──────────────────  TECHNOLOGY STACK  ──────────────────
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+# 05 / LANGUAGES & TOOLS
 
-### 💻 PROGRAMMING
+### PROGRAMMING
+
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,c"/>
 
-</td>
+</div>
 
-<td align="center" width="33%">
+### DATABASES
 
-### 🗄️ DATABASE
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 
-</td>
+</div>
 
-<td align="center" width="33%">
+### DATA & ANALYTICS
 
-### 📊 DATA
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Pandas-03213D?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/NumPy-062A48?style=for-the-badge&logo=numpy&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Excel-164E63?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Power%20BI-155E75?style=for-the-badge&logo=powerbi&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tableau-0E7490?style=for-the-badge&logo=tableau&logoColor=ffffff"/>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/Pandas-621D43?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-644765?style=flat-square&logo=numpy&logoColor=white"/>
+### DEVELOPMENT
 
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🔧 DEVELOPMENT
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github"/>
 
-</td>
-
-<td align="center">
-
-### 📈 ANALYTICS
-
-<img src="https://img.shields.io/badge/Excel-E6223A?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-### 🤖 AI
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-062A48?style=for-the-badge&logo=ai&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🚀 FEATURED PROJECTS
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<div align="center">
-
-## 📊 SALES ANALYTICS
-
-### Manager Dashboard
-
-</div>
-
-**Excel • Data Analytics**
-
-<br>
-
-• Data cleaning  
-• KPI analysis  
-• Sales & profit analysis  
-• Customer analysis  
-• Regional performance analysis  
-• Manager dashboard
-
-<br>
-
-<div align="center">
-
-🔗 **Project coming soon**
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<div align="center">
-
-## 🐘 INTELLIGENT SURVEILLANCE
-
-### Wildlife Protection
-
-</div>
-
-**AI • Data Science**
-
-<br>
-
-AI-based wildlife monitoring with a focus on **real-time monitoring and suspicious activity detection.**
-
-<br>
-
-<div align="center">
-
-🔗 **Project coming soon**
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<div align="center">
-
-## 🌱 INTELLIGENT PESTICIDE
-
-### Sprinkling System
-
-</div>
-
-**AI • Smart Agriculture**
-
-<br>
-
-A system designed to **determine plant infection levels and support targeted pesticide spraying.**
-
-<br>
-
-<div align="center">
-
-🔗 **Project coming soon**
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<div align="center">
-
-## 💰 PERSONAL FINANCE
-
-### Spending Analytics
-
-</div>
-
-**Python • Pandas • Excel**
-
-<br>
-
-A data analytics project focused on **spending behaviour, patterns and financial insights.**
-
-<br>
-
-<div align="center">
-
-🚧 **Currently Building**
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 📊 GITHUB ANALYTICS
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=angeetha06-art&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=E6223A&icon_color=E6223A&text_color=374365"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeetha06-art&layout=compact&hide_border=true&theme=transparent&title_color=E6223A&text_color=374365"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-# 🔥 CONTRIBUTION STREAK
+### ──────────────────  PROJECT INTELLIGENCE  ──────────────────
+
+</div>
+
+# 06 / FEATURED PROJECTS
+
+### 01 — SALES ANALYTICS & MANAGER DASHBOARD
+
+**Excel / Data Analytics**
+
+> A dashboard-focused analytics project designed to transform sales data into useful business insights.
+
+**Core Work**
+
+- Data cleaning
+- KPI analysis
+- Sales & profit analysis
+- Customer analysis
+- Regional performance
+- Manager dashboard for decision-making
+
+**Status:** `PROJECT LINK COMING SOON`
+
+---
+
+### 02 — INTELLIGENT SURVEILLANCE SYSTEM FOR WILDLIFE PROTECTION
+
+**AI / Data Science**
+
+> AI-based wildlife monitoring with a focus on real-time wildlife monitoring and suspicious activity detection.
+
+**Focus**
+
+`AI MONITORING` · `WILDLIFE PROTECTION` · `SUSPICIOUS ACTIVITY DETECTION`
+
+**Status:** `PROJECT LINK COMING SOON`
+
+---
+
+### 03 — INTELLIGENT PESTICIDE SPRINKLING SYSTEM DETERMINED BY THE INFECTION LEVEL OF THE PLANT
+
+**AI / Smart Agriculture**
+
+> A system designed to determine plant infection levels and support targeted pesticide spraying.
+
+**Focus**
+
+`PLANT INFECTION` · `AI` · `SMART AGRICULTURE` · `TARGETED SPRAYING`
+
+**Status:** `PROJECT LINK COMING SOON`
+
+---
+
+<div align="center">
+
+### ──────────────────  GITHUB TELEMETRY  ──────────────────
+
+</div>
+
+# 07 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=angeetha06-art&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeetha06-art&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" height="180"/>
+
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=angeetha06-art&theme=transparent&hide_border=true&ring=E6223A&fire=E6223A&currStreakLabel=E6223A&sideLabels=690722&currStreakNum=062A48&sideNums=062A48&dates=374365"/>
+<div align="center">
+
+**REPOSITORIES · COMMITS · STARS · LANGUAGE DISTRIBUTION**
+
+</div>
+
+---
+
+# 08 / CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=angeetha06-art&theme=transparent&hide_border=true&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"/>
 
 <br><br>
 
-### `BUILDING CONSISTENCY, ONE CONTRIBUTION AT A TIME 🚀`
+`CONSISTENCY > PERFECTION`
+
+</div>
+
+---
+
+# 09 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angeetha06-art&bg_color=00000000&color=38BDF8&line=0EA5E9&point=22D3EE&area=true&hide_border=true&radius=2"/>
 
 </div>
 
@@ -384,37 +315,31 @@ A data analytics project focused on **spending behaviour, patterns and financial
 
 <div align="center">
 
-# 📈 CONTRIBUTION ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angeetha06-art&bg_color=00000000&color=E6223A&line=690722&point=E6223A&area=true&hide_border=true&radius=10"/>
+### ──────────────────  KNOWLEDGE  ──────────────────
 
 </div>
+
+# 10 / ARTICLES
+
+I regularly write articles on:
+
+**Data Analytics, AI, SQL, Python & Technology**
 
 ---
 
 <div align="center">
 
-# 📝 ARTICLES
-
-### I regularly write and explore topics related to
-
-**Data Analytics • AI • SQL • Python • Technology**
+### ──────────────────  EXPERIENCE  ──────────────────
 
 </div>
 
----
+# 11 / RESUME
 
 <div align="center">
-
-# 📄 RESUME
-
-<br>
 
 <a href="https://github.com/angeetha06-art/Resume/blob/main/Angeetha_Resume.pdf">
 
-<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-E6223A?style=for-the-badge&labelColor=03213D"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-0EA5E9?style=for-the-badge&labelColor=03213D&logo=adobeacrobatreader&logoColor=ffffff"/>
 
 </a>
 
@@ -424,29 +349,33 @@ A data analytics project focused on **spending behaviour, patterns and financial
 
 <div align="center">
 
-# 🤝 CONNECT WITH ME
+### ──────────────────  CONNECT  ──────────────────
 
-<br>
+</div>
+
+# 12 / CONNECT WITH ME
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/angeetha-a-905101388/">
-<img src="https://img.shields.io/badge/LinkedIn-690722?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-03213D?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.kaggle.com/ankithaangeetha">
-<img src="https://img.shields.io/badge/Kaggle-621D43?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/KAGGLE-062A48?style=for-the-badge&logo=kaggle&logoColor=22D3EE"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/angeetha06">
-<img src="https://img.shields.io/badge/HackerRank-374365?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HACKERRANK-164E63?style=for-the-badge&logo=hackerrank&logoColor=22D3EE"/>
 </a>
 
 <a href="https://leetcode.com/u/angeetha06/">
-<img src="https://img.shields.io/badge/LeetCode-062A48?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-155E75?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
-📫 **Email:** `angeetha06@gmail.com`
+📫 **angeetha06@gmail.com**
 
 </div>
 
@@ -454,24 +383,20 @@ A data analytics project focused on **spending behaviour, patterns and financial
 
 <div align="center">
 
-# ⚡ FUN FACT
+## ⚡ FUN FACT
 
 <br>
 
-> ### *"I can spend hours learning something new, but still ask..."*
+> **I can spend hours learning something new, but still ask**
 >
-> ## **"Bro, is there an easier way?" 😂**
-
-</div>
-
----
-
-<div align="center">
-
-### `LEARNING` &nbsp;•&nbsp; `BUILDING` &nbsp;•&nbsp; `IMPROVING`
+> ### *"Bro, is there an easier way?" 😂*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,1,2,3,4,5,6"/>
+`LEARNING` &nbsp;•&nbsp; `BUILDING` &nbsp;•&nbsp; `IMPROVING`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0E7490,50:062A48,100:03213D"/>
 
 </div>
